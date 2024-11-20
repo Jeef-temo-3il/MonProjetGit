@@ -1,1 +1,1 @@
-Bonjour a tous. Je serai un alternant pour l'année prochaine, Dieu va faire cette grâce
+Bonjour a tous. 
