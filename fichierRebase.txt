@@ -1,0 +1,5 @@
+ for(int i = villesEuropeennes.size()+1; i>=0; i--) {
+	   if(villesGrandes.get(i).getPopulation() < 1000000) {
+		   villesGrandes.remove(i);
+	   }
+   }
